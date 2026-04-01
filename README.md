@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Krishnaofficl
-- 👀 I’m interested in Games like Genshin Impact
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Games like Genshin Impact,Honor of Kings
+- 🌱 I’m currently learning FastAPI
+- 💞️ I’m looking to collaborate on anything that picque my interest.
+- 📫 How to reach me :through manifestation... just kiddin' ,mail me:krishnakumar.rtnl@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: thinkin'..
 
 <!---
 Krishnaofficl/Krishnaofficl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
