@@ -33,9 +33,13 @@ I'm a Computer Science student focused on backend systems and API design, curren
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## GitHub Activity
+## Philosophy
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaofficl&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9&icon_color=a855f7)
+> *"Code doesn't forgive intention — only execution. Build like the deadline is real, even when it isn't."*
+
+> *"Every bug I've chased has taught me more than every feature I shipped clean."*
+
+> *"Consistency is a quieter kind of talent — it just never stops showing up."*
 
 ## Achievements
 
